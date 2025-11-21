@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋🏻Hi, I'm Álvaro:
 🎒I'm currently studying Data Science & AI
 
 
